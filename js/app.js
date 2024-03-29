@@ -4,7 +4,7 @@ function displayGreeting() {
        
             var name = "Adam";
        
-            alert(`Hello, I'm ${name}.  I am looking for work as a Junior Web Developer.  Thank you for visiting my portfolio!`);
+            alert(`Hi! I'm ${name}.  I just wanted to add some JavaScript for fun so here is an alert box.  Thank you for visiting my portfolio!`);
        
         }
 
