@@ -2,9 +2,9 @@
 
 function displayGreeting() {
        
-            var name = "Adam Baker";
+            var name = "Adam";
        
-            alert(`Hello, I'm ${name}.  Hiring Managers: You're obviously highly talented, intelligent and dapper or you wouldnt be here. :)  Thank you for visiting my portfolio!`);
+            alert(`Hello, I'm ${name}.  I am looking for work as a Junior Web Developer.  Thank you for visiting my portfolio!`);
        
         }
 
